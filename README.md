@@ -108,3 +108,5 @@ from [@adamcaudill](http://twitter.com/adamcaudill).  And of course none of
 this would be possible without the inventiveness of the
 [Snapchat](http://snapchat.com) team
 
+NOTES
+forked for preservation purposes as original uploader was threatened with DMCA
